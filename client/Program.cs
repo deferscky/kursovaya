@@ -136,7 +136,7 @@ namespace SimpleStringEditorClient
                     if (registered)
                     {
                         Console.WriteLine(" Регистрация успешна! Теперь войдите в систему.");
-                        continue; // Возвращаемся к меню авторизации
+                        continue;
                     }
                 }
                 else if (choice == "1")
@@ -146,7 +146,7 @@ namespace SimpleStringEditorClient
                     {
                         Console.WriteLine($" Добро пожаловать, {username}!");
                         currentUsername = username;
-                        return; // Успешный вход
+                        return;
                     }
                     else
                     {
