@@ -1,0 +1,14 @@
+E:\CURSOR\Client\bin\Debug\net10.0\Client.exe
+E:\CURSOR\Client\bin\Debug\net10.0\Client.deps.json
+E:\CURSOR\Client\bin\Debug\net10.0\Client.runtimeconfig.json
+E:\CURSOR\Client\bin\Debug\net10.0\Client.dll
+E:\CURSOR\Client\bin\Debug\net10.0\Client.pdb
+E:\CURSOR\Client\obj\Debug\net10.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOR\Client\obj\Debug\net10.0\Client.AssemblyInfoInputs.cache
+E:\CURSOR\Client\obj\Debug\net10.0\Client.AssemblyInfo.cs
+E:\CURSOR\Client\obj\Debug\net10.0\Client.csproj.CoreCompileInputs.cache
+E:\CURSOR\Client\obj\Debug\net10.0\Client.dll
+E:\CURSOR\Client\obj\Debug\net10.0\refint\Client.dll
+E:\CURSOR\Client\obj\Debug\net10.0\Client.pdb
+E:\CURSOR\Client\obj\Debug\net10.0\Client.genruntimeconfig.cache
+E:\CURSOR\Client\obj\Debug\net10.0\ref\Client.dll
