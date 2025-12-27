@@ -975,7 +975,7 @@ namespace SimpleStringEditorClient
                         string result = await response.Content.ReadAsStringAsync();
                         Console.WriteLine($" Пароль изменен! Ответ: {result}");
                         
-                        Console.WriteLine("\n⚠ Для продолжения нужно войти заново");
+                        Console.WriteLine("\nДля продолжения нужно войти заново");
                         Console.Write("Введите новый пароль: ");
                         string password = Console.ReadLine()?.Trim() ?? "";
                         
